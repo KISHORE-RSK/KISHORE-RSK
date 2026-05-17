@@ -54,15 +54,6 @@ developer = {
 [![GitHub Streak](https://streak-stats.demolab.com?user=KISHORE-RSK&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KISHORE-RSK&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
