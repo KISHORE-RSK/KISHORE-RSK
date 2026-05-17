@@ -23,3 +23,55 @@ developer = {
     "focus"    : ["AI / ML", "Backend Systems", "Multi-Agent Architectures"],
     "currently": "Building AI agents 🚀",
 }
+
+🛠️ Tech Stack
+Languages
+
+Frameworks & AI
+
+Tools & Cloud
+
+💼 Experience
+AI Engineer Intern @ Upstride  |  Present
+
+Architecting multi-agent AI systems with CrewAI across 5+ specialized agents — 60% faster workflows
+
+Building FastAPI microservices processing 100+ automated document requests daily
+
+Developing LLM-powered automation pipelines eliminating 90% of manual HR effort
+
+AI Intern @ Upstride  |  January 2026 – March 2026
+
+Led a 6-member team to develop DocsAI, an AI-powered document platform for Apex Pharma.
+
+Designed and implemented a complete OCR pipeline using LlamaParse, reducing document extraction time by 40%.
+
+Integrated OCR with AI-based document processing, cutting manual data entry effort by 35% and improving usability by 20%.
+
+Web Design Intern @ Karna Vidya Foundation  |  June 2025 – July 2025
+
+Enhanced platform usability by 20% through web design and documentation for education-focused initiatives.
+
+Created over 5 UI and awareness assets, increasing accessibility by 25% and user engagement by 18%.
+
+Reviewed and edited digital content, achieving a 30% reduction in errors while meeting 100% of assigned timelines.
+
+Web Development Intern @ Triland Animation Studio  |  June 2025 – July 2025
+
+Contributed to over 10 frontend components using HTML, CSS, and JavaScript, enhancing website UI consistency.
+
+Collaborated with a 5-member development team, reducing UI rework by 25% through timely feedback and coordination.
+
+Completed 100% of assigned frontend tasks within sprint deadlines, ensuring smooth and on-time delivery.
+
+🚀 Projects
+🔹 SPORTIFY – A Digital Platform Connecting Athletes and Scouts
+Developed a digital platform using HTML, CSS, JavaScript, and Django to connect athletes with scouts.
+
+🔹 LAW AI – AI-Powered Legal Assistance Platform
+Built a centralized legal document platform using Python and Django, accommodating over 100 document types.
+
+📊 GitHub Stats
+🏆 GitHub Trophies
+📈 Contribution Graph
+🤝 Connect With Me
