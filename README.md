@@ -32,11 +32,12 @@ developer = {
 
 ## 🛠️ Tech Stack
 
-* **Languages**: Python, JavaScript
-* **Frameworks**: Django, React
-* **Tools & Platforms**: GitHub, Google Colab, Figma
-* **Databases**: MongoDB, MySQL
-* **Concepts**: AI/ML, OCR, UI/UX Design
+* **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+* **Frameworks**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+* **Tools & Platforms**: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google+Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+* **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+* **Concepts**: ![AI/ML](https://img.shields.io/badge/AI%2FML-6C63FF?style=flat) ![OCR](https://img.shields.io/badge/OCR-FF6B6B?style=flat) ![UI/UX Design](https://img.shields.io/badge/UI%2FUX+Design-4ECDC4?style=flat)
+  
 ---
 
 ## 💼 Experience
