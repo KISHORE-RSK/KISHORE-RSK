@@ -6,6 +6,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KISHORE-RSK&color=6C63FF&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/KISHORE-RSK?style=for-the-badge&color=6C63FF)](https://github.com/KISHORE-RSK)
 
 </div>
 
