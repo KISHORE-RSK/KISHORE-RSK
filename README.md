@@ -23,7 +23,7 @@ developer = {
     "name"     : "KISHORE R",
     "location" : "Chennai, India",
     "education": "B.Tech – Computer Science and Engineering (Big Data Analytics) — SRM Institute of Science and Technology",
-    "focus"    : ["AI / ML", "Backend Systems", "Multi-Agent Architectures"],
+    "focus"    : "AI / ML", "Backend Systems", "Multi-Agent Architectures",
     "currently": "Building AI agents @ Upstride 🚀",
 }
 ```
