@@ -6,9 +6,6 @@
 
 <div align="center">
 
-<h1>Hi, I'm Kishore 👋</h1>
-<h3>🚀 Backend Engineer & AI Developer</h3>
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KISHORE-RSK&color=6C63FF&style=for-the-badge)
